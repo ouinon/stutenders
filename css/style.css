@@ -1,18 +1,18 @@
 body{
-	background-image:url('static/gi/tex_drk.jpg');
+	background-image:url('../static/gi/tex_drk.jpg');
 }
 
 div#oo_contain{
 	background-attachment:fixed;
 	background-position:left bottom;
 	background-repeat:repeat-x;
-	background-image:url('static/gi/bg/grad03.png');
+	background-image:url('../static/gi/bg/grad03.png');
 }
 
 div#o_contain{
 	width:962px;
 	margin:0 auto;
-	background-image:url('static/gi/bg/black08.png');
+	background-image:url('../static/gi/bg/black08.png');
 }
 div#contain{
 	margin-left:1px;
@@ -20,7 +20,7 @@ div#contain{
 }
 
 header#top{
-	background-image:url('static/gi/header.jpg');
+	background-image:url('../static/gi/header.jpg');
 	background-position:bottom left;
 	/*height:250px;*/
 	height:200px;
@@ -118,7 +118,7 @@ div.padding{
 	height:112px;
 	width:30px;
 	border:0;
-	background-image:url(static/gi/nav_arrows.png);
+	background-image:url(../static/gi/nav_arrows.png);
 	background-color:transparent;
 }
 #gallery button.left,#o_map button.left{
@@ -172,7 +172,7 @@ div.padding{
 	bottom:2px;
 	left:2px;
 	width:860px;
-	background-image:url('static/gi/bg/black06.png');
+	background-image:url('../static/gi/bg/black06.png');
 	text-align:left;
 	margin:0;
 	height:22px;
@@ -285,7 +285,7 @@ div.clear.add_margin{
 }
 footer{
 	padding:50px;
-	background-image:url('static/gi/tex_drk.jpg');
+	background-image:url('../static/gi/tex_drk.jpg');
 	text-align:center;
 	position:relative;
 }
@@ -308,7 +308,7 @@ section.last{
 }
 
 section header{
-	/*background-image:url('static/gi/tex_mid.jpg');*/
+	/*background-image:url('../static/gi/tex_mid.jpg');*/
 	padding:0 0 0.5em 0;
 	text-align:center;
 	margin-bottom:2ex;
@@ -329,7 +329,7 @@ section header > div > strong{
 
 section header.main_highlight > div:first-child{
 	border:#b10808 1px solid;
-	background-image:url('static/gi/tex_red.jpg');
+	background-image:url('../static/gi/tex_red.jpg');
 }
 
 section header.whitelight > div:first-child{
@@ -339,12 +339,12 @@ section header.whitelight > div:first-child{
 
 section header.lowlight > div:first-child{
 	border:#000d14 1px solid;
-	background-image:url('static/gi/tex_drk.jpg');
+	background-image:url('../static/gi/tex_drk.jpg');
 }
 
 section header.midlight > div:first-child{
 	border:#01253d 1px solid;
-	background-image:url('static/gi/tex_mid.jpg');
+	background-image:url('../static/gi/tex_mid.jpg');
 }
 
 section header.main_highlight h2,section header.lowlight h2, section header.midlight h2, section header.lowlight a{
@@ -369,7 +369,7 @@ section header h2,section header a{
 	background-color:black;
 	padding:0;
 	background-color:#e50b0b;
-	background-image:url('static/gi/bg/grad01.png');
+	background-image:url('../static/gi/bg/grad01.png');
 }
 .oo_img.s415.highlight > .o_img{
 	background-color:#0078d2;
@@ -407,7 +407,7 @@ p.base_footer{
 	clear:both;
 	height:9px;
 	padding:0;
-	background-image:url('static/gi/bg/black08.png');
+	background-image:url('../static/gi/bg/black08.png');
 }
 #oo_contain .o_shadow{
 	padding:0 8px;
@@ -424,7 +424,7 @@ table td,table th{
 	border:1px solid #333;
 }
 table th{
-	background-image: url('static/gi/tex_drk.jpg');
+	background-image: url('../static/gi/tex_drk.jpg');
 	color:white;
 	text-align:center;
 }
